@@ -1,0 +1,29 @@
+
+{
+    "name": "FasRag",
+    "short_name": "FasRag Corporation",
+    "scope":"/",
+    "start_url": "/index",
+    "display": "standalone",
+    "background_color": "#198754",
+    "orientation":"portrait",
+    "theme_color": "burlywood",
+    "description": "Compañia desarrolladora y creadora de videojuegos, aplicaciones moviles y sitios web's",
+    "icons": [{
+      "src": "img/mapa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }, {
+      "src": "img/mapa.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },{
+      "src": "img/128.png",
+      "sizes": "128x128",
+      "type": "image/mapa.png"
+    }],
+    "related_applications": [{
+      "platform": "play",
+      "url": "https://play.google.com/store"
+    }]
+  }
